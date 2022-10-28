@@ -1,2 +1,5 @@
 Example for git merge command 
 Nothing to worry
+
+# this changes for 102 
+ have to push & commit first for 101 later 101 will be commit
