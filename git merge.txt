@@ -1,5 +1,10 @@
 Example for git merge command 
 Nothing to worry
 
+<<<<<<< Updated upstream
 # this changes for 102 
  have to push & commit first for 101 later 101 will be commit
+=======
+made some changes for feature branch
+>>>>>>> Stashed changes
+yes did changes for 101 right now
